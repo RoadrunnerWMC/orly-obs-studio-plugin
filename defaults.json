@@ -1,0 +1,9 @@
+{
+    "owl-x-position": -110,
+    "owl-y-position": 240,
+    "owl-x-movement-distance": 0,
+    "owl-y-movement-distance": 480,
+
+    "framerate": 30,
+    "negation-timeout": 2
+}
